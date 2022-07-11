@@ -23,7 +23,7 @@ timezone: "Europe/Moscow"
 
 title: WierdVoodoo blog                          # the main title
 
-tagline: Мини блог @WierdVoodo   # it will display as the sub-title
+tagline: Мини блог @WierdVoodoo   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Блог посвященный ИБ, прохождению машин на htb и thm, и прочему интересному.
