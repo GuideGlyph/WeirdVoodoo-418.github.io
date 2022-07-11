@@ -6,7 +6,7 @@ order: 4
 
 
 Welcome here,
-I am 21 y.o. and I am student and Junior pentester from Russia
+I am 21 y.o. Junior pentester from Russia
 
 I hope you find something useful here :)
 
