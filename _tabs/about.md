@@ -1,8 +1,13 @@
 ---
-title: About
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+Welcome here,
+I am 21 y.o. and I am student and Junior pentester from Russia
+
+I hope you find something useful here :)
+
+Date of creating blog 11/07/2022
