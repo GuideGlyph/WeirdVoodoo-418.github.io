@@ -16,5 +16,3 @@ Links:
 
 
 I will upload my other writeups later.
-
-Date of creating blog 11/07/2022
